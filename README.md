@@ -37,9 +37,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/GivenBy/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a> -->
 
 <br>
-<br>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GivenBY&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 <br>
 <!-- 
 ### 🛠️ My Projects
