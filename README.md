@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Most Used Languages](https://raw.githubusercontent.com/GivenBY/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GivenBY&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <!-- 
 ### 🛠️ My Projects
