@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Suryakant Upadhyay!
 <a href='https://www.linkedin.com/in/GivenBy/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/GivenBY/GivenBY/ea32f3acafe229c59783fc8ce6a12963d2022d4d/assets/linkedin.svg" height='18px'/></a>
 <!-- <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/GivenBy/GivenBy/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> -->
 <a href='https://www.hackerrank.com/suryakant_1811/'><img alt="HackerRank" src="https://raw.githubusercontent.com/GivenBY/GivenBY/ea32f3acafe229c59783fc8ce6a12963d2022d4d/assets/hackerrank.svg" height='18px'/></a>
