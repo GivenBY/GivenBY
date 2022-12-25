@@ -38,15 +38,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-
-### 📊 Github Stats
-<a href='https://github.com/GivenBy/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/GivenBY/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/GivenBY/github-stats-transparent/output/generated/languages.svg)
-
-</a>
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GivenBY&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
