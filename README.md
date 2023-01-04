@@ -4,7 +4,7 @@
 <a href='https://www.hackerrank.com/suryakant_1811/'><img alt="HackerRank" src="https://raw.githubusercontent.com/GivenBY/GivenBY/ea32f3acafe229c59783fc8ce6a12963d2022d4d/assets/hackerrank.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats, I am still learning amd adapt to different project depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
