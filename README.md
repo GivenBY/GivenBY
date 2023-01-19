@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats, I am still learning amd a
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Bloggify**
+- 🔭 &nbsp; I’m currently working on **Whatsapp Bot with ChatGpt**
 <!-- - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/GivenBy/sheets-database) -->
 - 🌱 &nbsp; I’m currently learning C++; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GivenBy?tab=repositories)
