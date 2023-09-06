@@ -12,7 +12,7 @@
 
 </div>
 
-![snake animation](https://github.com/GivenBY/GivenBY/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/GivenBY/GivenBY/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Socials - Connect with me -->
 <h3 align="center">Connect with me:</h3>
