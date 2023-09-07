@@ -90,17 +90,17 @@
 
 ## 🚀 My Projects
 
-    🌍 [TheLicensingCompany.org](https://TheLicensingCompany.org/) : A client website built using WordPress, HTML, CSS, PHP
+🌍 [TheLicensingCompany.org](https://TheLicensingCompany.org/) : A client website built using WordPress, HTML, CSS, PHP
 
-    🌍 [QualityEngineeringpune.co.in](https://QualityEngineeringpune.co.in/) : A client website crafted with HTML, CSS, JS, PHP
+🌍 [QualityEngineeringpune.co.in](https://QualityEngineeringpune.co.in/) : A client website crafted with HTML, CSS, JS, PHP
 
-    🌍 [vyaparimitra.com](https://vyaparimitra.com/) : A client website powered by WordPress, HTML, CSS, JS
+🌍 [vyaparimitra.com](https://vyaparimitra.com/) : A client website powered by WordPress, HTML, CSS, JS
 
-    🌟 Currently Focusing on MERN Stack and DSA With Java 🌟
+🌟 Currently Focusing on MERN Stack and DSA With Java 🌟
 
-    📚 **Visit My Portfolio** [<- Here ->](https://GivenBY.github.io)
+📚 **Visit My Portfolio** [<- Here ->](https://GivenBY.github.io)
 
-    🤝 Let's connect and collaborate on exciting projects! 💡
+🤝 Let's connect and collaborate on exciting projects! 💡
 
 </div>
 
