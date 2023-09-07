@@ -85,7 +85,6 @@
     💬 If you want to talk code, hit me up!
 
 </div>
-
 <div>
 
 ## 🚀 My Projects
