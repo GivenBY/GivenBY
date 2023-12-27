@@ -13,9 +13,9 @@
 <!-- <a href="https://instagram.com/{}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Suryakant Upadhyay" height="30" width="40" /></a> -->
 <a href="https://twitter.com/Surya_kant2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Suryakant Upadhyay" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/21453288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21453288" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/suryakantupadhyay" target="blank"><img align="center" src="![Codeforces colored](https://github.com/GivenBY/GivenBY/assets/32999024/24e6cbe0-4e53-45d4-be06-c3e08d94faac)"
+<a href="https://codeforces.com/profile/suryakantupadhyay" target="blank"><img align="center" src="https://github.com/GivenBY/GivenBY/assets/32999024/24e6cbe0-4e53-45d4-be06-c3e08d94faac"
  alt="Suryakant Upadhyay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suryakant_1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Suryakant Upadhyay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suryakant_1811" target="blank"><img align="center" src="https://github.com/GivenBY/GivenBY/assets/32999024/c475933e-5e37-40b6-b927-104c8c19f051" alt="Suryakant Upadhyay" height="30" width="40" /></a>
 <a href="https://leetcode.com/Suryakant_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Suryakant Upadhyay" height="30" width="40" /></a>
 
 </p>
