@@ -1,10 +1,37 @@
 ## Hey 👋, I'm Suryakant Upadhyay!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
+
+
+
+<div>
+
+## 🚀 My Projects
+
+- 🔴 **Screenify**: Record your screen/camera and share the link securely without the need to log in.
+  
+- 💬 **SastaGPT**: Integration of the OpenAI API to generate code and facilitate conversations.
+
+- 📚 **Visit My Portfolio**: [Explore My Work](https://GivenBY.github.io)
+<br/>
+🤝 Feel free to check out the projects, open issues, and contribute! Your feedback is always appreciated. Let's build something awesome together!
+
+</div>
+
+<br/>
+<div>
+  
+## 🚀 Client Works
+
+🌍 [TheLicensingCompany.org](https://TheLicensingCompany.org/) : A client website built using WordPress, HTML, CSS, PHP
+
+🌍 [QualityEngineeringpune.co.in](https://QualityEngineeringpune.co.in/) : A client website crafted with HTML, CSS, JS, PHP
+
+🌍 [vyaparimitra.com](https://vyaparimitra.com/) : A client website powered by WordPress, HTML, CSS, JS
+
+</div>
 
 <!-- Socials - Connect with me -->
 <h3 align="center">Connect with me:</h3>
@@ -27,38 +54,11 @@
 <br>
 </div>
 
-<div>
 
-## 👨‍💻 Who Am I?
 
-    🙂 Hola, I'm Suryakant Upadhyay, a SY student at DYPIU, Akurdi, Pune.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GivenBy/GivenBY/output/github-contribution-grid-snake.svg">
+</picture>
 
-    📍 127.0.0.1 is where I call home
-
-    💻 I enjoy tinkering with code, building cool projects and solving complex problems.
-
-    👯 Always seeking innovative projects and collabs to grow my skills.
-
-    👨‍💻 Passionate about contributing to open-source and learning new tech.
-
-    💬 If you want to talk code, hit me up!
-
-</div>
-
-<div>
-
-## 🚀 My Projects
-
-🌍 [TheLicensingCompany.org](https://TheLicensingCompany.org/) : A client website built using WordPress, HTML, CSS, PHP
-
-🌍 [QualityEngineeringpune.co.in](https://QualityEngineeringpune.co.in/) : A client website crafted with HTML, CSS, JS, PHP
-
-🌍 [vyaparimitra.com](https://vyaparimitra.com/) : A client website powered by WordPress, HTML, CSS, JS
-
-🌟 Currently Focusing on MERN Stack and DSA With Java 🌟
-
-📚 **Visit My Portfolio** [<- Here ->](https://GivenBY.github.io)
-
-🤝 Let's connect and collaborate on exciting projects! 💡
-
-</div>
